@@ -4,6 +4,6 @@
   "forceUpdate": false,
   "message": "يتوفر تحديث جديد لمايكروتنيب 1.1",
   "downloadUrl": "https://github.com/a739623484-sudo/Microtnep-Updates/releases/download/v1.1/app-release.apk",
-  "servicesVersion": 999,
-  "servicesMessage": "الخدمات."
+  "servicesVersion": 1,
+  "servicesMessage": ""
 }
