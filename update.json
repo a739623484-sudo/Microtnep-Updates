@@ -1,9 +1,9 @@
 {
-  "versionCode": 2,
+  "versionCode": 3,
   "versionName": "1.0",
   "forceUpdate": false,
   "message": "مرحباً بك في مايكروتنيب. يتوفر تحديث جديد.",
   "downloadUrl": "",
   "servicesVersion": 2,
-  "servicesMessage": "تجربة."
+  "servicesMessage": "اختبار3."
 }
